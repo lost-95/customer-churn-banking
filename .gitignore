@@ -11,3 +11,6 @@ __pycache__/
 # MAC OS / vscode config files
 .DS_Store
 .vscode/
+
+# Ignore template files
+data_preprocessing.ipynb
