@@ -14,3 +14,4 @@ __pycache__/
 
 # Ignore template files
 data_preprocessing_tools.ipynb
+notebooks/customer-churn-prediction-classification-model-to-complete.ipynb
